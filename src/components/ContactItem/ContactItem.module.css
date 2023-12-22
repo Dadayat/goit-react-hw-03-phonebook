@@ -1,0 +1,13 @@
+.contactsList {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+}
+
+.delContactBtn {
+  box-shadow: 0px 2px 10px 2px #575757;
+  border-radius: 5px;
+  height: 25px;
+  border: none;
+}
